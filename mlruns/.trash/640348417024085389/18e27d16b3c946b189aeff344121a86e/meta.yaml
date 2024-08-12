@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/HES/Desktop/Work/SE Factory/Hackathon/app-vice/app-vice-ml/app_predict_artifacts/18e27d16b3c946b189aeff344121a86e/artifacts
+deleted_time: 1723470684121
+end_time: 1723469904302
+entry_point_name: ''
+experiment_id: '640348417024085389'
+lifecycle_stage: deleted
+run_id: 18e27d16b3c946b189aeff344121a86e
+run_name: onehot_3_model
+run_uuid: 18e27d16b3c946b189aeff344121a86e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723469904128
+status: 4
+tags: []
+user_id: HES

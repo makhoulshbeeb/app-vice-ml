@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/HES/Desktop/Work/SE Factory/Hackathon/app-vice/app-vice-ml/app_predict_artifacts
+creation_time: 1723467606567
+experiment_id: '123608117196434519'
+last_update_time: 1723470688642
+lifecycle_stage: deleted
+name: app_predict
+tags:
+  env: dev
+  version: 1.0.0

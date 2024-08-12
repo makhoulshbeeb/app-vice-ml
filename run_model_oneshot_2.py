@@ -20,10 +20,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-csv_dir = 'data/onehot_models/onehot_1.csv'
-experiment_name='onehot_1_experiment'
-run_name="onehot_1_model"
-artifact_location='onehot_1_artifacts'
+csv_dir = 'data/onehot_models/onehot_2.csv'
+experiment_name='onehot_2_experiment'
+run_name="onehot_2_model"
+artifact_location='onehot_2_artifacts'
 
 experiment=get_mlflow_experiment(experiment_name=experiment_name)
 
